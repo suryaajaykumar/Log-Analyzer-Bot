@@ -36,7 +36,8 @@ The **Log Analyzer Bot** is a shell script that analyzes `/var/log/auth.log` to 
 - `cron`
 - `mail` or `logger` (optional for alerts)
 
-### GUI Version (Optional):
+### GUI Version :
+https://darling-pothos-55e480.netlify.app/
 - Python 3.x
 - `Tkinter`
 - `collections`, `re`, `os`
